@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+.idea
+*.iml
+target
+dependency-reduced-pom.xml
+logs
+*.ipr
+*.iws
