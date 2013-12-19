@@ -14,6 +14,7 @@
         <module>mongo-blog</module>
         <module>map-reduce</module>
         <module>scala-sample</module>
+        <module>js-samples</module>
     </modules>
 
 
