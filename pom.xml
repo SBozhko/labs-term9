@@ -12,6 +12,7 @@
         <module>spring-mvc-app</module>
         <module>xml</module>
         <module>mongo-blog</module>
+        <module>map-reduce</module>
     </modules>
 
 
