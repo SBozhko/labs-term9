@@ -10,15 +10,7 @@ object TopStudent {
 
 
   def main(args: Array[String]) {
-    val alex = Student("S1", 83)
-    val david = Student("S2", 80)
-    val frank = Student("S3", 85)
-    val julia = Student("S4", 90)
-    val kim = Student("S5", 95)
-
-    val topStudent = topStud(Seq(alex, david, frank, julia, kim))
-
+    val topStudent = topStud(Seq(Student("S1", 83), Student("S2", 80), Student("S3", 85), Student("S4", 90), Student("S5", 95)))
     println(topStudent)
-
   }
 }
