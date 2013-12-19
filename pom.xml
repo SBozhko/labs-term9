@@ -11,6 +11,7 @@
     <modules>
         <module>spring-mvc-app</module>
         <module>xml</module>
+        <module>mongo-blog</module>
     </modules>
 
 
